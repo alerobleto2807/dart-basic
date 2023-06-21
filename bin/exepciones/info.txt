@@ -1,0 +1,6 @@
+//DefferedLoadException : error que ocurre cuando falla la carga de uan libreria
+//FormatExeption: error que ocurre cuando una cadena u valor no tiene el valor esperando y no se peude procesar
+//IntegerDivisonByZeroException: ocurre cuando intentamos dividir entre cero
+// IOException: se produce en procesos de salidas o entradas de datos
+// IsolateSpawnExeption: cuasno un trozo de codigo isolate no se puede crear.
+// Timeout: se produce con funciones asincronas que excede el tiempo programdo de ejecusion
